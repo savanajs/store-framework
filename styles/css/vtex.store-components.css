@@ -34,6 +34,6 @@
 
 .infoCardContainer {
     max-width: 1260px;
-    margin: 0px;
     padding: 0px;
+    margin: 0 auto;
 }
