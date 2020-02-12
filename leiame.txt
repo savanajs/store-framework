@@ -1,0 +1,75 @@
+- Alinhamneto vtex io
+
+vtex.io/docs
+lab.github.com/vtex-trainings
+http://dontpad.com/corebizio
+github.com/vtex-apps/store-discussion
+github.com/vtex-apps/store-theme
+github.com/vtex-apps/store
+github.com/vtex-apps/vtex-pixel - tags
+github.com/vtex-apps/react-app-template
+bundlephobia.com
+format-message.github.io/icu-message-format-for-translators
+vtex-tachyons
+styleguide.vtex.com
+vtex.css-handles
+testing-library.com
+
+react-intl - formataçao de valor
+vtex.format-currency
+prismic.io
+tour.js
+
+menu as props
+
+Custom store fron
+custom admin
+
+- Store framework - Plataforma de desenvolvimento de software
+
+Custamização de blocos de codigo
+Inteprase versão para customização de componentes
+
+- Almoço
+
+- Analise de implementações
+
+- Novos blocos do store framework
+
+- Boas praticas react / construção de blocos
+
+- Contribuit store framework / css handles
+
+
+vtex-trainings
+
+- Instalar Node, yarn e toolbelt
+
+vtex login
+> appliancetheme (nome da conta - loja)
+
+vtex whoami - verifcar se esta logado
+
+vtex browse - abrir no navegador
+
+vtex link - Vai linkar
+
+Instalar o robot
+- VTEX Course Hub
+
+
+
+-------------------------------------------------------------------------------
+
+- No IO esta integrado com AMP, PWA e testes AB?
+
+- Integração de APIs da vtex com react native? pegar infos do carrinho
+
+- Lista de casamento ou presente, existe uma solução no IO? (Nao por enquanto)
+
+- Formulario de contato (vtex-forms)
+
+boas pratica
+
+linter - vtex setup
+react react tools
